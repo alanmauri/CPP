@@ -23,7 +23,7 @@ int main(int argc, char** argv) {
 			cout<<"C es el mayor";
 		}
 	}
-		
-	
+			
+			
 	return 0;
 }
