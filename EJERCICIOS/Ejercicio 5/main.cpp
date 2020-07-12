@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 	
 	resultado=a+b;
 	
-	cout << "El resultado es: " << resultado<< endl;
+	cout << "El resultado de la suma es: " << resultado<< endl;
 	
 	return 0;
 }
