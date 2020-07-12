@@ -6,7 +6,8 @@ using namespace std;
 
 int main(int argc, char** argv) {
 	
-	int a=0, b=0, suma=0, resta=0,multi=0,division=0;
+	int a=0, b=0, suma=0, resta=0,multi=0;
+	double division=0;
 	
 	cout << "Ingrese el Valor de a: ";
 	cin >> a;
