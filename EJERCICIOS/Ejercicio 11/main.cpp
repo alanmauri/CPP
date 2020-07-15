@@ -8,6 +8,7 @@ int main(int argc, char** argv) {
 	
 	int a=50, b=10, c=7;
 	
+	
 	if(a>b && a>c)
 	{
 		cout<<"A es el mayor  "<< a;
