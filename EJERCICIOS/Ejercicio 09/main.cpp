@@ -13,6 +13,7 @@ int main(int argc, char** argv) {
 	
 	
 	cout<<endl;
+	
 	if (numero== numerosecreto){
 		cout<<"Adivinastes el numero secreto:"<<numero;
 	
