@@ -12,6 +12,7 @@ int main(int argc, char** argv) {
 	 
 	cout << endl;
 	cout << "su nombre es:" << nombre;
+	
 	cout << endl;
 	
 	 
