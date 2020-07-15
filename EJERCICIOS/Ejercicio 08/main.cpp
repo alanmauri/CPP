@@ -17,6 +17,7 @@ int main(int argc, char** argv) {
 	cin >> descuento;
 	
 	calculodescuento=(subtotal*descuento)/100;
+	
 	calculoimpuesto=(subtotal-calculodescuento)*impuesto;
 	
 	total = subtotal-calculodescuento+calculoimpuesto;
