@@ -22,6 +22,7 @@ int main(int argc, char** argv) {
 	multi=a*b;
 	division=a/b;
 	
+	
 	cout << "El resultado de la suma es: " << suma<< endl;
 	cout << "El resultado de la resta es: " << resta<< endl;
 	cout << "El resultado de la multi es: " << multi<< endl;
