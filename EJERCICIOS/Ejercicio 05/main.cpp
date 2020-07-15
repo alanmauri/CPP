@@ -20,5 +20,6 @@ int main(int argc, char** argv) {
 	
 	cout << "El resultado de la suma es: " << resultado<< endl;
 	
+	
 	return 0;
 }
