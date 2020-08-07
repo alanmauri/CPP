@@ -2,26 +2,25 @@
 
 /* run this program using the console pauser or add your own getch, system("pause") or input loop */
 
-string nombreCompleto(string nombre, string apellido) {
+using namespace std;
+
+string nombreCompleto(sting nombre, string apellido){
 	
 	return nombre +" "+ apellido;
 }
 
 int main(int argc, char** argv) {
+	return 0;
 	
-	string primerNombre=" ";
-	string primerApellido="";
+	string primerNombre=" ",primerApellido="";
 	
-	cout<<"Ingrese su primernombre: ";
+	cout<<"Ingrese primer nombre: ";
 	cin>>primerNombre;
 	
-	
-	cout<<"Ingrese su primer apellido: ";
+	cout<<"Infrese primer apellido: ";
 	cin>>primerApellido;
 	
-	cuut<<endl;
 	
-	cout<< "El nombre completo es: " <<nombreCompleto(primerNombre, primerApellido);
+	cout<<"El nombre completo es: " << nombreCompleto(primerNombre, primerApellido);
 	
-	return 0;
 }
